@@ -1,0 +1,26 @@
+<catalogo>
+  <produto id="3">
+    <nome>XBOX    </nome>
+    <preco>800.0</preco>
+  </produto>
+  <produto id="5">
+    <nome>xbox</nome>
+    <preco>800.0</preco>
+  </produto>
+  <produto id="4">
+  	<nome>PS3</nome>
+  	<preco>1000.0</preco>  
+  </produto>
+  
+  <produto id="2">
+  	<nome>Wii U</nome>
+  	<preco>1900.0</preco>
+  </produto>
+  
+  <produto id="1">
+  	<nome>PS Vita</nome>
+  	<preco>900.0</preco>
+  </produto>
+  <preco>20000.0</preco>
+
+</catalogo>

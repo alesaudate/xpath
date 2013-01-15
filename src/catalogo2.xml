@@ -1,0 +1,26 @@
+<soarocks:catalogo xmlns:soarocks="http://soaexpert.com.br/soarocks" xmlns="http://soaexpert.com.br">
+  <produto id="3">
+    <nome>XBOX    </nome>
+    <soarocks:preco>800.0</soarocks:preco>
+  </produto>
+  <produto id="5">
+    <soarocks:nome>xbox</soarocks:nome>
+    <soarocks:preco>800.0</soarocks:preco>
+  </produto>
+  <produto id="4">
+  	<soarocks:nome>PS3</soarocks:nome>
+  	<soarocks:preco>1000.0</soarocks:preco>  
+  </produto>
+  
+  <produto id="2">
+  	<soarocks:nome>Wii U</soarocks:nome>
+  	<soarocks:preco>1900.0</soarocks:preco>
+  </produto>
+  
+  <produto id="1">
+  	<soarocks:nome>PS Vita</soarocks:nome>
+  	<soarocks:preco>900.0</soarocks:preco>
+  </produto>
+  <soarocks:preco>20000.0</soarocks:preco>
+
+</soarocks:catalogo>
